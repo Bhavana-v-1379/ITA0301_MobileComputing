@@ -1,4 +1,5 @@
 Figma-Based Mobile IP Communication Workflow Analysis
+
 Design an interactive Figma prototype illustrating the complete workflow of Mobile IP communication when a Mobile Node moves from its Home Network to a Foreign Network. Your design should include the Home Agent (HA), Foreign Agent (FA), Correspondent Node (CN), Care-of Address (CoA), Registration Process, and Packet Tunneling.
 
 Analyze the communication process by identifying:
